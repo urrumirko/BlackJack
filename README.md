@@ -1,7 +1,7 @@
 ----------------------
 BlackJack
 ----------------------
-
+ This is a Java console BlackJack game
 
 ----------------------
 Command Line Arguments
